@@ -1,1 +1,5 @@
 # snmpjs
+
+Start
+
+//npm install
