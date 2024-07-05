@@ -2,4 +2,4 @@
 
 Start
 
-//npm install
+`npm install`
